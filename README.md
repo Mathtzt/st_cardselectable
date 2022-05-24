@@ -24,4 +24,4 @@ Currently, there is one function defined:
 <img src="https://github.com/Mathtzt/st_cardselectable/raw/master/example/cards_init.png" alt="state_initial" width="max_content"/>
 
 ### State: Selected
-<img src="https://github.com/Mathtzt/st_cardselectable/raw/master/example/cards_init.png" alt="drawing" width="max_content"/>
+<img src="https://github.com/Mathtzt/st_cardselectable/raw/master/example/card_selected.png" alt="drawing" width="max_content"/>
