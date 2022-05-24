@@ -1,0 +1,17 @@
+/* styles.scss */
+
+.card-header {
+    display: flex;
+    align-items: center;
+    background-color: #e8e4f2;
+    font-weight: 600;
+}
+
+div {
+    width: -webkit-fill-available;
+}
+
+.cardSelected {
+    color: white;
+    background-color: #60489d;
+}
