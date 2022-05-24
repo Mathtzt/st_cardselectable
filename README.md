@@ -1,4 +1,5 @@
 # streamlit-cardselectable: A flexible and extensible content container selectable in Streamlit! <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="drawing" width="40"/>
+<a href="https://github.com/Mathtzt/st_cardselectable"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 ## Installation
 
@@ -20,7 +21,7 @@ Currently, there is one function defined:
 ## Example
 
 ### State: Initial
-<img src="example/cards_init.png" alt="drawing" width="max_content"/>
+<img src="https://github.com/Mathtzt/st_cardselectable/raw/master/example/cards_init.png" alt="state_initial" width="max_content"/>
 
 ### State: Selected
-<img src="example/card_selected.png" alt="drawing" width="max_content"/>
+<img src="https://github.com/Mathtzt/st_cardselectable/raw/master/example/cards_init.png" alt="drawing" width="max_content"/>
